@@ -1,4 +1,5 @@
-![HealMe logo](https://raw.githubusercontent.com/healme/.github/main/profile/healme.png)
+![HealMe logo](![healme-logo](https://github.com/healme-app/.github/assets/94037920/93a471a2-640b-455c-8663-d9eb47c9910a)
+)
 
 # HealMe - C241-PS458 - Bangkit 2024
 
