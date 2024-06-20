@@ -35,7 +35,7 @@ Health, Wellness, and Wound Management
 
 ## Links
 
-- [Backend API](https://be-api.healme.dev/)
-- [Machine Learning API](https://ml-api.healme.dev/)
+- [Backend API](https://documenter.getpostman.com/view/22724606/2sA3Qwbpj6)
+- [Machine Learning Deployment URL](https://storage.googleapis.com/model-skin-detection-healme/healme-model-v2/model.json)
 
 ## Heal Faster with HealMe!
